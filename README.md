@@ -77,6 +77,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/abhips2005/abhips2005/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/abhips2005/abhips2005/main/snake.svg" alt="Snake animation" />
 
 ###
