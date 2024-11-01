@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/abhips2005/abhips2005/main/banner.png" alt="About Me"  />
+  <img src="https://raw.githubusercontent.com/abhips2005/abhips2005/main/banner.png" alt="About Me"  />
 </div>
 
 ###
@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://merida.anahuac.mx/hs-fs/hubfs/apreu/Blog/2019%20Blog%20APREU/APREU%20Blog%20-%20Abril%2019/dribbble-shot_6.gif?width=1200&name=dribbble-shot_6.gif"  />
+  <img height="250" src="https://merida.anahuac.mx/hs-fs/hubfs/apreu/Blog/2019%20Blog%20APREU/APREU%20Blog%20-%20Abril%2019/dribbble-shot_6.gif?width=1200&name=dribbble-shot_6.gif"  />
 </div>
 
 ###
