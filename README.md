@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/abhips2005/abhips2005/main/snake.svg" alt="About Me"  />
+  <img height="200" src="https://raw.githubusercontent.com/abhips2005/abhips2005/main/banner.png" alt="About Me"  />
 </div>
 
 ###
