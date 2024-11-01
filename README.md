@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1gCScP7_BfWkO6usIcAcCb90h1cpPYpM7/"  />
+  <img height="200" src="https://drive.google.com/file/d/1gCScP7_BfWkO6usIcAcCb90h1cpPYpM7/view?usp=sharing"  />
 </div>
 
 ###
 
-<h2 align="left">Hi 👋! My name is Abhijith S and <br>I'm a full stack developer <br>From Kottayam,Kerala</h2>
+<h2 align="left">Hi 👋! My name is Abhijith S.<br>I'm a full stack developer</h2>
 
 ###
 
